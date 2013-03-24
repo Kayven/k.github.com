@@ -5,7 +5,7 @@ permalink: /posts/:title.html
 exclude:
   - README.md
 
-name: Kayven'''s Homepage
+name: Kayven's Homepage
 host: kayven.github.com
 desc: deep learning, deep thinking, deep mining.
 
